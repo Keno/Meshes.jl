@@ -4,6 +4,7 @@ include("core.jl")
 include("io.jl")
 include("isosurface.jl")
 include("csg.jl")
+include("plot.jl")
 #include("simplification.jl")
 
 end # module Meshes
